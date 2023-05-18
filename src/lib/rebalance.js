@@ -44,7 +44,7 @@ export function rebalance(node, props = { ratio: 1 }) {
     return {
         destroy() {
             resizer.unobserve(node.parentElement);
-            mutation.unobserve(node);
+            mutation.disconnect();
         }
     }
 }

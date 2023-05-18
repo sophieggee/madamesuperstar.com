@@ -2,6 +2,8 @@
 
 <script lang="ts">
 	import type { PostMetadata } from '../lib/types';
+
+	import { rebalance } from '../lib/rebalance';
 	export let post: PostMetadata;
 
 	let isHovering = false;
@@ -12,7 +14,7 @@
 	<img src={`content/image/${post.image}`} alt={post.title} />
 	{#if isHovering}
 		<a class="overlay" href="/{post.slug}">
-			<h1>{post.title.toUpperCase()}</h1>
+			<h1 use:rebalance>{post.title.toUpperCase()}</h1>
 		</a>
 	{/if}
 </article>
