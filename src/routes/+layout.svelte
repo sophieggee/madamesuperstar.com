@@ -31,13 +31,13 @@
 <!-- make background light pink -->
 <style>
 	:global(body) {
-		background: rgb(251, 208, 239);
+		background: rgb(255, 201, 240);
 		margin: 0;
 		padding: 0;
 		font-family: 'Inter var', 'Inter', sans-serif;
 	}
 	h1 {
-		color: rgb(251, 208, 239);
+		color: rgb(255, 201, 240);
 		padding: 0;
 		margin: 0;
 		font-size: 2rem;
@@ -48,7 +48,7 @@
 		/* overflow: hidden; */
 	}
 	header {
-		background: rgb(255, 47, 0);
+		background: rgb(220, 0, 0);
 		padding: 0 1rem;
 		overflow: hidden;
 	}

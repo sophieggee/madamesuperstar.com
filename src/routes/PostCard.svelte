@@ -11,9 +11,9 @@
 <article on:mouseenter={() => (isHovering = true)} on:mouseleave={() => (isHovering = false)}>
 	<img src={`content/image/${post.image}`} alt={post.title} />
 	{#if isHovering}
-		<div class="overlay">
-			<h1>{post.title}</h1>
-		</div>
+		<a class="overlay" href="/{post.slug}">
+			<h1>{post.title.toUpperCase()}</h1>
+		</a>
 	{/if}
 </article>
 
@@ -31,12 +31,13 @@
 		left: 0;
 		width: 100%;
 		height: 100%;
-		background: rgb(255, 47, 0);
+		background: rgb(220, 0, 0);
 		display: flex;
 		justify-content: center;
 		align-items: center;
-		color: rgb(251, 208, 239);
-		font-size: 4rem;
+		color: rgb(255, 201, 240);
+		font-size: 3vw;
 		text-align: center;
+		text-decoration: none;
 	}
 </style>
