@@ -1,4 +1,4 @@
-import { getPost } from '../../lib/blog.server.ts';
+import { getPost, getPosts } from '../../lib/blog.server.ts';
 import { error } from '@sveltejs/kit';
 
 export const prerender = true;
@@ -13,4 +13,11 @@ export async function load({ params }) {
     return {
         post
     };
+}
+
+export function entries() {
+    const posts = getPosts();
+    return posts.map((post) => ({
+        slug: post.slug
+    }));
 }
