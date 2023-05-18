@@ -9,7 +9,7 @@ export const load = (async () => {
         posts: getPosts()
     }
 }) satisfies PageServerLoad;
-export function getPosts(): PostMetadata[] {
+function getPosts(): PostMetadata[] {
     return fs
         .readdirSync('static/content/blog')
         .reverse()
@@ -34,7 +34,7 @@ export function getPosts(): PostMetadata[] {
  * @param {string} slug
  * @returns {import('./types').BlogPost}
  */
-export function get_post(slug) {
+function get_post(slug) {
     for (const file of fs.readdirSync('content/blog')) {
         if (!file.endsWith('.md')) continue;
         if (file.slice(11, -3) !== slug) continue;
