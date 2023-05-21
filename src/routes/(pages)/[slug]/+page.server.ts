@@ -1,4 +1,4 @@
-import { getPost, getPosts } from '../../lib/blog.server.ts';
+import { getPost, getPosts } from '../../../lib/blog.server.ts';
 import { error } from '@sveltejs/kit';
 
 export const prerender = true;

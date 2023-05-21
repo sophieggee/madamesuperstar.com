@@ -1,0 +1,64 @@
+<article>
+	<h1>What is this Wild Place?</h1>
+
+	<p>I'm so happy you're here! Because I have a lot to say.</p>
+
+	<p>
+		My name is Sophie Gee, seemingly the sole patron of Instagram to coin the stage name <a
+			href="https://www.instagram.com/madame.superstar/">Madame Superstar</a
+		>. I wonder what a stage name does for someone with no stage; I guess we're all here to find
+		out. The intent of this website is to lure prospective employers in using my resume, and to
+		scare them off using my words.
+	</p>
+
+	<p>
+		If you are looking for more inhabitants of your email inbox, you can receive alerts of new posts
+		to this website by entering your email into the <strong> SUBSCRIBE </strong> section. And, if
+		you ever want to offer me a piece of your mind, feel free to let loose in an
+		<a href="mailto:sophieggee@icloud.com" target="_blank">email</a>.
+	</p>
+
+	<p>Okay, I am fairly certain that is the end of the rules.</p>
+
+	<p>
+		There are a lot of motivating forces behind this website, i.e. understanding why <a
+			href="https://svelte.dev/">svelte</a
+		>
+		is the biggest threat to my relationship, the freedom a lack of rigorous schoolwork brings, but most
+		romantic: my desire for a <strong>creative outlet</strong>. I've always been an outspoken
+		advocate of the notes app, and the solace it can bring to a racing mind. I've found that
+		summers, especially, ripen my desire for the connectedness that relatable absurdity can bring.
+	</p>
+
+	<p>
+		I started this blog during my final summer at home with my parents, and I can only assume that
+		similar existential temptations will plague me this summer, as I settle into my upper-west-side
+		apartment and find that I have far too much time on my hands. So here I am, and here you are,
+		and I just hope you enjoy.
+	</p>
+</article>
+
+<style>
+	article {
+		max-width: 700px;
+		margin: 0 auto;
+		padding: 1rem 1rem 2rem 1rem;
+		color: rgb(0, 0, 0);
+		font-weight: 380;
+	}
+	h1 {
+		font-size: 5vw;
+		font-weight: 600;
+		text-align: center;
+		margin: 1rem auto 2rem auto;
+		color: rgb(220, 0, 0);
+	}
+	a {
+		color: rgb(0, 0, 0);
+	}
+	img {
+		width: 100%;
+		display: block;
+		margin: auto;
+	}
+</style>

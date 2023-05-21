@@ -1,6 +1,6 @@
 <script lang="ts">
 	import type { PageServerData } from './$types';
-	import { rebalance } from '../../lib/rebalance';
+	import { rebalance } from '../../../lib/rebalance';
 
 	export let data: PageServerData;
 
