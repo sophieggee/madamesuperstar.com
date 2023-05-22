@@ -6,6 +6,10 @@
 	export let data: PageServerData;
 </script>
 
+<svelte:head>
+	<title>Madame Superstar</title>
+</svelte:head>
+
 <MarqueHeader />
 {#each data.posts as post}
 	<PostCard {post} />

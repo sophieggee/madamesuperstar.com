@@ -7,6 +7,10 @@
 	console.log(data);
 </script>
 
+<svelte:head>
+	<title>{data.post.title}</title>
+</svelte:head>
+
 <article class="post">
 	<h1 use:rebalance>
 		{data.post.title.toUpperCase()}
