@@ -1,3 +1,7 @@
+<script>
+	import Subscribe from './Subscribe.svelte';
+</script>
+
 <header>
 	<h1>MADAME SUPERSTAR</h1>
 </header>
@@ -15,6 +19,9 @@
 		<a href="/resume/Resume_Gee_Sophie_2022.pdf" target="_blank">RESUME</a>
 	</li>
 	<li><a href="mailto:sophieggee@icloud.com" target="_blank">CONTACT</a></li>
+	<li>
+		<Subscribe />
+	</li>
 </ul>
 
 <svelte:head>
