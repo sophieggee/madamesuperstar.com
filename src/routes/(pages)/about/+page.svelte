@@ -13,8 +13,8 @@
 
 	<p>
 		If you are looking for more inhabitants of your email inbox, you can receive alerts of new posts
-		to this website by entering your email into the <strong> SUBSCRIBE </strong> section. And, if
-		you ever want to offer me a piece of your mind, feel free to let loose in an
+		to this website by entering your email into the subscribe section. And, if you ever want to
+		offer me a piece of your mind, feel free to let loose in an
 		<a href="mailto:sophieggee@icloud.com" target="_blank">email</a>.
 	</p>
 
