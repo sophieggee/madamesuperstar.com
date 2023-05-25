@@ -60,7 +60,7 @@
 		/* make the cursor a pointer */
 		cursor: pointer;
 		font: inherit;
-		font-size: 1rem;
+		font-size: inherit;
 		color: rgb(220, 0, 0);
 		display: block;
 		margin: 0;
@@ -89,6 +89,11 @@
 		justify-content: center;
 		gap: 1rem;
 		list-style-type: none;
+	}
+	@media (max-width: 800px) {
+		ul {
+			font-size: 0.7rem;
+		}
 	}
 
 	a {

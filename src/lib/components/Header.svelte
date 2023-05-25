@@ -59,6 +59,13 @@
 		gap: 1rem;
 		list-style-type: none;
 	}
+
+	@media (max-width: 800px) {
+		ul {
+			font-size: 0.7rem;
+		}
+		/* CSS that should be displayed if width is equal to or less than 800px goes here */
+	}
 	a {
 		text-decoration: none;
 		color: inherit;
