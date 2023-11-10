@@ -4,13 +4,13 @@ title: "The Seasons We Can't Define"
 image: beautiful-and-brave.JPEG
 ---
 
-As if I needed more outlets to describe myself to the world, I also have a [podcast](https://open.spotify.com/show/7l1msjk1O0drWAgbRt9iaT?si=9b5712a613d545d0). My former roommate Camille and I started this creative endeavor after knowing each other for ~3 months. I think that is tender. We were sophomores in college and hoping to broadcast our niche corner of counter-counter-culture in Provo to any listening ears (around 150 of our closest friends and family members).
+As if I needed more outlets to describe myself to the world, I also have a [podcast](https://open.spotify.com/show/7l1msjk1O0drWAgbRt9iaT?si=9b5712a613d545d0). My former roommate Camille and I started this creative endeavor after knowing each other for ~3 months. I think that is tender. We were Sophomores in college and hoping to broadcast our niche corner of counter-counter-culture in Provo to any listening ears (around 150 of our closest friends and family members).
 
 Throughout the past 3 years, we have published 14 episodes. For an average of once a quarter. Every now and then, we feel reinvigorated by the impending financial and otherwise requirements of adult life, which brings us back to the built-in iPhone mics. Writing this out so candidly, I'm realizing how precious I find this process.
 
 Of course these 14 episodes have never brought us a cent in any sort of monetary revenue. Realistically, our quarterly strokes of ambition won't get us very far either.
 
-I'm reminded of a drawing that my first college best friend, Haley McBride drew for me for my birthday card this past year. Both graduating that spring, she thought it appropriate to remind me of our freshman year together. She drew us side by side outside of our dorm building and wrote "Beautiful Hopeful Brave Girls!!".
+I'm reminded of a drawing that my first college best friend, Haley McBride drew for me for my birthday card this past year. Both graduating that spring, she thought it appropriate to remind me of our Freshman year together. She drew us side by side outside of our dorm building and wrote "Beautiful Hopeful Brave Girls!!".
 
 The past three podcast episodes Camille and I have published have been unknowingly labeled as "Season 2, Episode 1". A technical representation of the constant hope in ourselves and the capabilities we hypothetically possess to forge a new beginning.
 
