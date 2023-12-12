@@ -8,23 +8,25 @@ As the calendar year comes to an end, starting weeks in advance, I typically fol
 
 I can’t exactly say what it is about right this moment that feels so far away from embarking on this journey. But as usual, I’ll try.
 
-I started to reach for my journal in the spirit of “hitting the books” but realized I could practically quote the past 45 pages. I don’t particularly feel the need to add to my standing in the ranks of Phoebe Bridger’s listeners, and I can see my somewhat-recently published “Creed for a Girl” taped on my wall from where I am sitting on my bed.
+I started to reach for my journal in the spirit of “hitting the books” but realized I could practically quote the past 45 pages. I don’t feel the need to add to my standing in the ranks of Phoebe Bridger’s listeners, and I can see my recently published “Creed for a Girl” taped on my wall from where I am sitting on my bed.
 
 Thinking about it now, I don’t think there have been two consecutive months this year that I went without revisiting past journal entries and/or grounding myself in a constitution. In a lot of ways, I think this continual draw to renewal is the only thing that’s kept me afloat.
 
-What piques my curiosity, is why I have felt the need — not desire - to explore myself so fervently this year. 
+What piques my curiosity is why I have felt the need — not desire - to explore myself so fervently this year. 
 
 And arguably even more enticing, what in the world have I learned in doing so?
 
-This being my longest blog post to date, we’re going to have to keep this chatter to an outline (scary, I know) but I think we’ll have fun?
+This being my longest blog post to date, we’re going to have to keep the chatter to an outline (scary, I know) but I think we’ll have fun?
 
-I intend to proceed by interspersing journal entries with explanatory takeaways, shedding some light on the situation that is my 2023.
+I'm going to try interspersing journal entries with explanatory takeaways, shedding some light on the situation that is my 2023.
 
-This year I have had to defend my system of beliefs in ways I never have before, coming to terms with the changes I feel within me every single day. I’m so deeply entangled with the search for discovering which projection of Truth might work best for me. 
+This year, I have had to defend my system of beliefs in ways I never have before. All while coming to terms with the changes I feel within me. I’m so deeply entangled with the search for discovering which projection of Truth might work best for me. 
 
 This struggle in my heart seeps into both the treacherous and the mundane. 
 
-I have to visit it when describing where I went to school to the stranger in a crowded bar or the coworker at a too-silent kitchenette. I carry it with me through tears in conversations with loved ones or when using sterile terminology in hopes of bringing therapists rapidly up to speed. 
+I have to visit it when describing where I went to school to the stranger in a crowded bar or the coworker at a too-silent kitchenette. 
+
+I carry it with me through tears in conversations with loved ones or when using sterile terminology in hopes of bringing therapists rapidly up to speed. 
 
 To write about my 2023 without acknowledging my search for a definition of faith where I find peace would not be writing about my year at all.
 
