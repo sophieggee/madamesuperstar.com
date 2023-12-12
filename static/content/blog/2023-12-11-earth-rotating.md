@@ -38,9 +38,11 @@ For me, facing my faith in a new light will always feel hand-in-hand with my exp
 
 Becoming an adult feels like finishing act one of a play that I wholeheartedly appreciated from the orchestra seats only to find out that I am set to be the lead in act two.
 
-I was plenty aware of my surroundings growing up, and I think I digested information from as wide of a breadth of resources as I had reasonable access to. Still, I find myself feeling back at square one more frequently than I would prefer. Even when I experience painfully similar emotions time and time again, almost cyclically, it takes thoughtful recounting and sincere introspection to identify patterns. August 3rd: “And all at once, today right now, I am angry. I’m angry with the patriarchy, of course, but not in a trite way; this time it’s new, like somehow I have found a creative way to curse the patriarchal threads of society. I am angry at anyone or anything that made me feel small when I didn’t deserve it. I’m angry at all the people that didn’t want to hear themselves accept me. And, as always, I’m angry at the hours that I spend feeling dramatic and ashamed—all riled up, as they say.”
+I was plenty aware of my surroundings growing up, and I think I digested information from as wide of a breadth of resources as I had reasonable access to. Still, I find myself feeling back at square one more frequently than I would prefer. Even when I experience painfully similar emotions time and time again, almost cyclically, it takes thoughtful recounting and sincere introspection to identify patterns. 
 
-You can watch the same play curtain to curtain as many times as you’d like and still have no idea what to do once you’re on stage yourself.
+***<p style="text-align: center;">August 3rd: “And all at once, today right now, I am angry. I’m angry with the patriarchy, of course, but not in a trite way; this time it’s new, like somehow I have found a creative way to curse the patriarchal threads of society. I am angry at anyone or anything that made me feel small when I didn’t deserve it. I’m angry at all the people that didn’t want to hear themselves accept me. And, as always, I’m angry at the hours that I spend feeling dramatic and ashamed—all riled up, as they say.”</p>***
+
+You can watch the same play curtain to curtain as many times as you’d like and still have no idea what to do once you’re on the stage yourself.
 
 I guess I’ve turned to re-reading my journals and devouring self-help books during this period of my life as my own way of rehearsing the script.
 
@@ -48,18 +50,16 @@ I guess I’ve turned to re-reading my journals and devouring self-help books du
 
 The last part of this year I will discuss is my entering into America’s workforce (unexpected, I know).
 
-In the transition between the almost mind-numbing challenge of my undergraduate career and what is now my full-time job in “Big Tech” (that’s what they’re calling it), I have found that I have much more time
-
- on my hands and space in my head.
-
-***<p style="text-align: center;">June 25th: “Maybe I spend all my time creating new things because I find space in this creation for me to surprise myself. It’s as though I am coming up with a beautiful mosaic of pieces of me that I recognize.”</p>***
+In the transition between the almost mind-numbing challenge of my undergraduate career and what is now my full-time job in “Big Tech” (that’s what they’re calling it), I have found that I have much more time on my hands and space in my head.
 
 With this time and space, I have had the opportunity to read several more books, create a surprising amount of art, and write all the while. I’m so grateful to spend more time with myself in these ways.
+
+***<p style="text-align: center;">June 25th: “Maybe I spend all my time creating new things because I find space in this creation for me to surprise myself. It’s as though I am coming up with a beautiful mosaic of pieces of me that I recognize.”</p>***
 
 My dad spent the past three months on sabbatical from his grueling job as an overworked attorney. My mom was at first nervous about the extra time on his hands and figuring out what to occupy him with, but the days have flown by and I think they’re more in love than ever before. At the very least, my dad is certainly the happiest I have ever seen him.
 
 Sometimes we’re scared of more time because we haven’t had the opportunity to discover what it can bring us. I’m just grateful I can commute home from Times Square slightly before rush hour and find my paper mache supplies waiting for me on the kitchen table.
 
-***<p style="text-align: center;">November 11th: “I am also grateful that reading back on old journal entries gives me a sense of patience and generosity with myself. Somehow, compassionate pen pals. I want to hold her hand, but when I go to grab it, I see that it’s occupied. She’s trying her hardest to hold it herself. She always will.”</p>***
+***<p style="text-align: center;">November 11th: “I am also grateful that reading back on old journal entries gives me a sense of patience and generosity with myself. Somehow, compassionate pen pals. I want to hold her hand but when I go to grab it, I see that it’s occupied. She’s trying her hardest to hold it herself. She always will.”</p>***
 
 I’m happy to say that I am leaving this year with notes crammed into the margins. I experienced loss and heartbreak as any girl should, but I looked it all in the face, and I wrote about what I saw. All while the Earth rotated once more.
