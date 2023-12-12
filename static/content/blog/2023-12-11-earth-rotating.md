@@ -68,4 +68,4 @@ Sometimes we’re scared of more time because we haven’t had the opportunity t
 
 ***<p style="text-align: center;">November 11th: “I am also grateful that reading back on old journal entries gives me a sense of patience and generosity with myself. Somehow, compassionate pen pals. I want to hold her hand but when I go to grab it, I see that it’s occupied. She’s trying her hardest to hold it herself. She always will.”</p>***
 
-I’m happy to say that I am leaving this year with notes crammed into the margins. I experienced loss and heartbreak as any girl should, but I looked it all in the face, and I wrote about what I saw. All while the Earth rotated once more.
+I’m happy to say that I am leaving this year with notes crammed into the margins. I experienced loss and heartbreak as any girl should, but I looked it all in the face and I wrote about what I saw. All while the Earth rotated once more.
