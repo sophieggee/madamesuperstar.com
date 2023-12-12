@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "While the Earth Rotated Once More"
-image: marry-me.JPEG
+image: earth.JPEG
 ---
 
 One of my closest friends, whom I have no doubt mentioned on any platform available to me, Haley McBride, recently shared with me her 2023 summary. It’s funny because reading the (rather eloquent) description of her year inspired me to reflect on mine in a way that seemed entirely novel. 
