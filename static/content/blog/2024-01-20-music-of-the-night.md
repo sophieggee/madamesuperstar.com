@@ -6,7 +6,7 @@ image: music.JPEG
 
 My parents had too many kids at too old of an age to have the energy to film anything I did as a toddler. But I have been told enough times, from enough sources, with enough exactness, to feel confident in stating that I was a fanatic about the Phantom of the Opera (2004) by age three. I don’t remember my very first viewing, (because I think I was belting out the tunes from the comfort of a carseat) but I do remember watching it repeatedly even as I grew older. 
 
-Something about the initial scenes of black and white, the dusty opera hall, Christine’s shaking birdlike notes in her dressing room, the cave’s candlement. I mean to this day I maintain that this film is a flawless production. I believe I’ve watched it from every bed I’ve owned, on any laptop I could get my hands on.
+Something about the initial scenes of black and white, the dusty opera hall, Christine’s shaking birdlike notes in her dressing room, the cave’s candlelight. I mean to this day I maintain that this film is a flawless production. I believe I’ve watched it from every bed I’ve owned, on any laptop I could get my hands on.
 
 There really is so much to be said about this movie but for the moment, I am pointing to it as the catalyst of my 20-year-long love affair with music. 
 
