@@ -10,7 +10,7 @@ Something about the initial scenes of black and white, the dusty opera hall, Chr
 
 There really is so much to be said about this movie but for the moment, I am pointing to it as the catalyst of my 20-year-long love affair with music. 
 
-Its soundtrack showed me that it’s possible to contract goosebumps from a melody. At an age where honing my EQ wasn’t necessarily a top priority, I was able to empathize so deeply and immediately with the emotions in the pieces and I think it really surprised me.
+Its soundtrack showed me that it’s possible to contract goosebumps from a melody. At an age where honing my EQ wasn’t necessarily a top priority, I was able to empathize deeply and immediately with the emotions in the pieces and I think it really surprised me.
 
 For my next flirtation with the world of music, I have my dad to thank. For as long as I can remember, any free time my dad had (limited) was set to a soundtrack of any one of his thousands of CDs spinning in a stereo. If he was catering to his adolescent and adoring fans, he would put on one or more of the following tracks:
 
@@ -23,7 +23,7 @@ For my next flirtation with the world of music, I have my dad to thank. For as l
 ***<p style="text-align: center;">Daughter - Loudon Wainwright</p>***
 ***<p style="text-align: center;">Far From Me - John Prine</p>***
 
-As soon as I was old enough to save up enough money for my own personal Purple Emerson CD Player Cassette Boombox Radio FM Stereo, my dad began burning me personalized CDs. He made one for every road trip we took (being sure to order each state-specific song according to the chronological order in which we would pass through it), every birthday (there are a surprising amount of numerically themed songs worth listening to before you have to scrape the bottom of the barrel), and every major life event (most notably, the passing of our beloved family pet, Pedro). 
+As soon as I was old enough to save up enough money for my own personal Purple Emerson CD Player Cassette Boombox Radio FM Stereo, my dad began burning me personalized CDs. He made one for every road trip we took (being sure to order each state-specific song according to the chronological order in which we would pass through it), every birthday (there are a surprising amount of numerically themed songs worth listening to before you have to scrape the bottom of the barrel), and every major life event (most notably: the passing of our beloved family pet, Pedro). 
 
 Another one I remember had songs burned on in order of colors in the rainbow, creating a seamless crescendo into the finale of Blackbird - The Beatles.
 
