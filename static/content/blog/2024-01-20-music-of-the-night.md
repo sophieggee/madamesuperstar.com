@@ -14,21 +14,14 @@ Its soundtrack showed me that it’s possible to contract goosebumps from a melo
 
 For my next flirtation with the world of music, I have my dad to thank. For as long as I can remember, any free time my dad had (limited) was set to a soundtrack of any one of his thousands of CDs spinning in a stereo. If he was catering to his adolescent and adoring fans, he would put on one or more of the following tracks:
 
-***<p style="text-align: center;">The Babysitter’s Here - Dar Williams
-
-Daddy’s Little Pumpkin - John Prine
-
-Gracie - Ben Folds
-
-Eli’s Coming - Three Dog Night
-
-Don’t Take Your Guns to Town - Johnny cash
-
-Zombie - Cranberries
-
-Daughter - Loudon Wainwright
-
-Far From Me - John Prine</p>***
+***<p style="text-align: center;">The Babysitter’s Here - Dar Williams</p>***
+***<p style="text-align: center;">Daddy’s Little Pumpkin - John Prine</p>***
+***<p style="text-align: center;">Gracie - Ben Folds</p>***
+***<p style="text-align: center;">Eli’s Coming - Three Dog Night</p>***
+***<p style="text-align: center;">Don’t Take Your Guns to Town - Johnny cash</p>***
+***<p style="text-align: center;">Zombie - Cranberries</p>***
+***<p style="text-align: center;">Daughter - Loudon Wainwright</p>***
+***<p style="text-align: center;">Far From Me - John Prine</p>***
 
 As soon as I was old enough to save up enough money for my own personal Purple Emerson CD Player Cassette Boombox Radio FM Stereo, my dad began burning me personalized CDs. He made one for every road trip we took (being sure to order each state-specific song according to the chronological order in which we would pass through it), every birthday (there are a surprising amount of numerically themed songs worth listening to before you have to scrape the bottom of the barrel), and every major life event (most notably, the passing of our beloved family pet, Pedro). 
 
