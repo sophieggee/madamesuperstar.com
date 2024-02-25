@@ -27,7 +27,7 @@ Before I even had a chance to distinguish which people were worth time or space 
 
 I, a devoutly religious, already 5’9”, reformed gifted program attendee (the only one of my kind, everyone else in the program chose to continue on to its subsequent middle school) from an undesirable elementary school and an even less desirable neighborhood, was not exactly a high-yield investment. 
 
-During my years in the gifted program, I was asked to hang out with my peers outside of school on four separate occasions. Otherwise, my social circle consisted of my two best friends from my previous elementary school: Yara and Kate. We lived near each other, which helped, but I could tell there was something different about our interactions and the ones I would see happening from the other side of the playground at the recesses where my program was “integrated” with the rest of the grade level. 
+During my years in the gifted program, I was asked to hang out with my peers outside of school on four separate occasions. Otherwise, my social circle consisted of my two best friends from my previous elementary school: Yara and Kate. We lived near each other, which helped, but I could tell there was something different about our interactions than the ones I would see happening from the other side of the playground at the recesses where my program was “integrated” with the rest of the grade level. 
 
 The girls were wearing Uggs, Lululemon’s children's brand, and North Face (almost exclusively). They shopped at Nordstrom (sometimes alone – their moms in the other stores of the mall), put semi-permanent feathers in their hair, and traveled to Hawaii for mid-winter break. 
 
