@@ -59,7 +59,7 @@ I nervously contributed what I could to a conversation between five friends with
 
 Eventually, my initial invitee left for family dinner and I was left alone en route to our local strip mall’s authentic Mexican gem, “La Casita” with four girls who hadn’t directly opted in to the idea of me joining their evening: my Big Break.
 
-After filling my stomach with approximately my body weight of chips and salsa and sprite, we headed back home for a game of sardines in just about the largest house I had ever been in.
+After filling my stomach with approximately my body weight of chips and salsa and sprite, we headed back home for a game of sardines in just about the largest house I had ever been.
 
 After a couple of rounds, I was elected sardine. I found a bathroom on the second floor that seemed suitable, and made my lanky body as small as it could be in the space between the toilet bowl and the roll holder. I can’t remember how long I held strong, but before anybody had the chance to find me, I was throwing up.
 
