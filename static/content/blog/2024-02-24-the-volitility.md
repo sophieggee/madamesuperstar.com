@@ -51,7 +51,7 @@ To this day, I cannot believe I didn’t immediately fake an illness to be valia
 
 I am not exaggerating when I say surviving any single day in and out of those doors was a victory in and of itself. Between those unapologetic bell rings, almost anything could happen to your social life. Let alone the business that would take place in post-trading hours. 
 
-Mornings on the bus in the crickety gray leather bench seat in the back, spent sliding and un-sliding my Samsung Touchscreen Keyboard Cell Phone anxiously anticipating any sort of an invitation regarding the impending weekend. 
+Mornings on the bus in the rickety gray leather bench seat in the back, spent sliding and un-sliding my Samsung Touchscreen Keyboard Cell Phone anxiously anticipating any sort of an invitation regarding the impending weekend. 
 
 The first time I was invited to hang out with new friends outside of school was the week before halloween. I was set to hang out at one friend’s house while a couple of other girls were at a house just down the street baking cookies and playing coolmathgames. The friend I was with suggested we join forces and got us invited to the other house rather casually, as they were all a part of the same friend group in elementary school. 
 
