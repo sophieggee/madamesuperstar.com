@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spring's Shedding"
-image: spring.JPEG
+image: spring.jpeg
 ---
 A week ago, March 19, was the first day of spring this year. 
 
