@@ -21,20 +21,9 @@
 	<p>Okay, I am fairly certain that is the end of the rules.</p>
 
 	<p>
-		There are a lot of motivating forces behind this website, i.e. understanding why <a
-			href="https://svelte.dev/">svelte</a
-		>
-		is the biggest threat to my relationship, the freedom a lack of rigorous schoolwork brings, but most
-		romantic: my desire for a <strong>creative outlet</strong>. I've always been an outspoken
-		advocate of the notes app, and the solace it can bring to a racing mind. I've found that
-		summers, especially, ripen my desire for the connectedness that relatable absurdity can bring.
-	</p>
-
-	<p>
-		I started this blog during my final summer at home with my parents, and I can only assume that
-		similar existential temptations will plague me this summer, as I settle into my upper-west-side
-		apartment and find that I have far too much time on my hands. So here I am, and here you are,
-		and I just hope you enjoy.
+		I started this blog during my final summer of college while living at home with my parents, and
+		I have returned to it somewhat regularly as both a dazzling stage and a void to scream in. So
+		here I am, and here you are, and I just hope you enjoy.
 	</p>
 </article>
 
