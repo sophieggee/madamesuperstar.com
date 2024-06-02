@@ -27,6 +27,7 @@
 	</p>
 
 	<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">my friends bullied me into posting this HAVE THE CONSENT TALK</p>&mdash; anya meredith (@AnyaMeredith) <a href="https://twitter.com/AnyaMeredith/status/1305214475717337089?ref_src=twsrc%5Etfw">September 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">why is she so mad about costco <a href="https://t.co/6OhQBOMMwe">pic.twitter.com/6OhQBOMMwe</a></p>&mdash; hayley ! (@crocteautwins) <a href="https://twitter.com/crocteautwins/status/1430357763079741444?ref_src=twsrc%5Etfw">August 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </article>
 
