@@ -26,6 +26,8 @@
 		here I am, and here you are, and I just hope you enjoy.
 	</p>
 
+	<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">my friends bullied me into posting this HAVE THE CONSENT TALK</p>&mdash; anya meredith (@AnyaMeredith) <a href="https://twitter.com/AnyaMeredith/status/1305214475717337089?ref_src=twsrc%5Etfw">September 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 </article>
 
 <style>
