@@ -26,19 +26,6 @@
 		here I am, and here you are, and I just hope you enjoy.
 	</p>
 
-<iframe 
-    id="twitter-widget-0" 
-    scrolling="no" 
-    frameborder="0" 
-    allowtransparency="true" 
-    allowfullscreen="true" 
-    class="" 
-    title="X Post" 
-    src="https://platform.twitter.com/embed/Tweet.html?id=1305214475717337089&lang=en&theme=light" 
-    style="position: static; visibility: visible; width: 100%; height: 352px; display: block; flex-grow: 1;" 
-    data-tweet-id="1305214475717337089">
-</iframe>
-
 </article>
 
 <style>
