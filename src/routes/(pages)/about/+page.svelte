@@ -26,7 +26,11 @@
 		here I am, and here you are, and I just hope you enjoy.
 	</p>
 
-	<iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" title="X Post" src="https://platform.twitter.com/embed/Tweet.html?id=1305214475717337089&theme=light" style="position: static; visibility: visible; width: 385px; height: 352px; display: block; flex-grow: 1;" data-tweet-id="1305214475717337089"></iframe>
+	<blockquote class="twitter-tweet">
+  	<p lang="en" dir="ltr">This is the tweet text manually added if needed.</p>
+  	&mdash; Anya Meredith (@AnyaMeredith) <a href="https://fixvx.com/AnyaMeredith/status/1305214475717337089">Date</a>
+	</blockquote>
+	<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </article>
 
