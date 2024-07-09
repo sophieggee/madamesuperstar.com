@@ -17,6 +17,7 @@ Welcome everyone, I am so honored and excited to be here with you all. This day 
 When Hans and Elena reached out to ask me to perform this ceremony they had two requests. One being that I look fabulous, and two being that I paint a picture of their story. I’ll let you all be the judge of both.
 
 Thoughts?
+![Me](https://raw.githubusercontent.com/sophieggee/madamesuperstar.com/master/static/content/image/elena_and_hans/me_again.jpg "Me")
 
 I seemed like an appropriate person for this job given that I initially set them up on a blind date in the fall of 2020.
 
