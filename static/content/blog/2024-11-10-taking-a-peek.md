@@ -50,7 +50,7 @@ Another thing about my life right now is how precious my roommates are to me. Wh
 
 Having Eleanor here was especially significant because organically and all on her own (because of who she is and who my roommates are), she formed real relationships with all three of my roommates. The five of us spent a good part of a Sunday together holding hands and having breakthroughs in my queen bed. By the end of the week, we stayed up until 1 am on Friday asking each other how we would classify our inner demons (if applicable). 
 
-![ELeanor Forever](https://raw.githubusercontent.com/sophieggee/fkagrace/gh-pages/assets/img/july/neltexts.jpeg "Eleanor Forever")
+![ELeanor Forever](https://raw.githubusercontent.com/sophieggee/madamesuperstar.com/master/static/content/image/neltexts.jpeg "Eleanor Forever")
 
 It is so fun when a big part of your social circle is connected by a common entity (i.e. school, where your parents live), but there is an unmatched sense of reassurance that comes with a dear friend choosing to enter through the doorway of your “new life”, taking a peek, asking questions and ooh-ing and ah-ing. 
 
