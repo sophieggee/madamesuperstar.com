@@ -4,7 +4,7 @@ title: "Taking a Peek"
 image: lying_with_ur_friend.JPEG
 ---
 
-Basically what happened is that in the past week one of my best friends from my college came to stay with me in my apartment in New York. And while that was happening, I was also   planning a trip that was supposed to start this week to San Francisco to visit some other of my best friends. And then what really gave me this epiphone was that I was on a phone call with another friend and she was discussing a recent trip she had gone on to visit a friend that no longer lives a drivable distance away from her.
+Basically what happened is that in the past week one of my best friends from my college came to stay with me in my apartment in New York. And while that was happening, I was also   planning a trip that was supposed to start this week to San Francisco to visit some other of my best friends. And then what really gave me this epiphany was that I was on a phone call with another friend and she was discussing a recent trip she had gone on to visit a friend that no longer lives a drivable distance away from her.
 
 My conversation on the phone was mainly to try and help to validate my friend in feeling like there was something “off” about the recent trip she took to visit someone she loves. She couldn’t make sense of it because she always had so much fun with them in college together, and now visiting them in a new environment where she was staying in their new house and sleeping on their new couch just felt all wrong. Their dynamics had shifted, and more was at play than ever before. 
 
