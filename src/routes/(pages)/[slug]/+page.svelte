@@ -36,6 +36,7 @@
 		margin: 4rem 0;
 	}
 
+	/* Ensure title styling is preserved */
 	.post :global(h1) {
 		font-size: 5vw;
 		font-weight: 600;
@@ -44,12 +45,13 @@
 		color: rgb(220, 0, 0);
 	}
 
+	/* Style for the date */
 	.post-date {
-		font-size: 1.2rem;
-		text-align: center;
-		color: rgb(50, 50, 50);
-		margin-top: -2rem;
-		margin-bottom: 2rem;
+		font-size: 2vw; /* Smaller font size for the date */
+		text-align: center; /* Centers the date text */
+		color: rgb(200, 0, 0); /* Slightly lighter color for subtlety */
+		margin-top: -1rem; /* Optional: Adjust spacing above the date */
+		margin-bottom: 2rem; /* Spacing below the date */
 	}
 
 	.post :global(a) {
