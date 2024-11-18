@@ -2,7 +2,7 @@
 layout: post
 title: "While the Earth Rotated Once More"
 image: earth.jpeg
-date: "December 11, 2023"
+when: "December 11, 2023"
 ---
 
 As the calendar year comes to an end, starting weeks in advance, I typically follow an unconscious agenda of re-reading all of my journal entries starting from January, play my past year’s top songs on repeat, decree an all-encompassing rebrand that will take care of my New Year’s Resolutions, and recenter myself with plenty of meditation.

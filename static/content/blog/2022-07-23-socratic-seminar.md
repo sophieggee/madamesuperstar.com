@@ -2,7 +2,7 @@
 layout: post
 title: "A Socratic Seminar Worth Attending"
 image: socratic.JPEG
-date: "July 23, 2022"
+when: "July 23, 2022"
 ---
 ## If Songs Worth Listening to Had a High School Caliber Socratic Seminar Discussion, It Might Look Like This:
 

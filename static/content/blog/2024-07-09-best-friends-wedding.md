@@ -2,7 +2,7 @@
 layout: post
 title: "A Sweet New Union"
 image: elena_and_hans/future_is_scary.jpg
-date: "July 9, 2024"
+when: "July 9, 2024"
 ---
 
 I just recently (July 2nd) had the pleasure of officiating the Sweet New Union of two of my favorite people. I have written the speech up here, along with some director's cut footage.

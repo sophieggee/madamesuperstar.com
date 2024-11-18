@@ -2,7 +2,7 @@
 layout: post
 title: "Prayers as I Leave"
 image: prayer-hands.JPEG
-date: "June 22, 2022"
+when: "June 22, 2022"
 ---
 <br/>
 

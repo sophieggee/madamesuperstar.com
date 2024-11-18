@@ -2,7 +2,7 @@
 layout: post
 title: "A Plea etc."
 image: karen.JPEG
-date: "June 19, 2022"
+when: "June 19, 2022"
 ---
 
 ## A Plea Written to My Hometown

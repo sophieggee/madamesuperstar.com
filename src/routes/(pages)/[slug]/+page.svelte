@@ -15,7 +15,7 @@
 	<h1 use:rebalance>
 		{data.post.title.toUpperCase()}
 	</h1>
-	<p class="post-date">{data.post.date}</p>
+	<p class="post-date">{data.post.when}</p>
 
 	<img src={`/content/image/${data.post.image}`} alt={data.post.title} />
 	<div class="content">

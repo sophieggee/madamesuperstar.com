@@ -2,7 +2,7 @@
 layout: post
 title: "A Space for Self-Surprises"
 image: surprise.JPEG
-date: "May 22, 2023"
+when: "May 22, 2023"
 ---
 
 I once wrote in my journal, “I believe that the space in which self-surprises happen is most often the best soil for growth”.

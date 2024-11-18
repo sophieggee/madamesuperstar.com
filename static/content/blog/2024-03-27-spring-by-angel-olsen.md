@@ -2,7 +2,7 @@
 layout: post
 title: "Holy Flux"
 image: holyflux.jpeg
-date: "March 27, 2024"
+when: "March 27, 2024"
 ---
 
 A week ago, March 19, was the first day of spring this year. 

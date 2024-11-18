@@ -2,7 +2,7 @@
 layout: post
 title: "A Letter of Intent to Move"
 image: children-in-park.JPEG
-date: "May 25, 2023"
+when: "May 25, 2023"
 ---
 
 I can’t pin down the exact moment I decided I wanted to move to Manhattan, but I believe it was somewhere between first hearing Cat Power’s rendition of a song by the same name, and walking through Washington Square Park at night in 2015. 

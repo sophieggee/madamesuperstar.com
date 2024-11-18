@@ -2,7 +2,7 @@
 layout: post
 title: "A Petition"
 image: marry-me.JPEG
-date: "June 12, 2022"
+when: "June 12, 2022"
 ---
 
 A world where these two songs unite in holy matrimony. When can i sign up? Pass the CLIPBOARD!

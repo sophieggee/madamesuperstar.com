@@ -2,7 +2,7 @@
 layout: post
 title: "Daughter Named Me"
 image: comb.JPEG
-date: "July 5, 2022"
+when: "July 5, 2022"
 ---
 
 ## Something I Read in a Book

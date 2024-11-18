@@ -2,7 +2,7 @@
 layout: post
 title: "The Seasons We Can't Define"
 image: beautiful-and-brave.JPEG
-date: "November 10, 2023"
+when: "November 10, 2023"
 ---
 
 As if I needed more outlets to describe myself to the world, I also have a [podcast](https://open.spotify.com/show/7l1msjk1O0drWAgbRt9iaT?si=9b5712a613d545d0). My former roommate Camille and I started this creative endeavor after knowing each other for ~3 months. I think that is tender. We were Sophomores in college and hoping to broadcast our niche corner of counter-counter-culture in Provo to any listening ears (around 150 of our closest friends and family members).

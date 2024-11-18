@@ -2,7 +2,7 @@
 layout: post
 title: "A Cosmic Playlist"
 image: music.JPEG
-date: "January 20, 2024"
+when: "January 20, 2024"
 ---
 
 My parents had too many kids at too old of an age to have the energy to film anything I did as a toddler. But I have been told enough times, from enough sources, with enough exactness, to feel confident in stating that I was a fanatic about the Phantom of the Opera (2004) by age three. I don’t remember my very first viewing, (because I think I was belting out the tunes from the comfort of a carseat) but I do remember watching it repeatedly even as I grew older. 

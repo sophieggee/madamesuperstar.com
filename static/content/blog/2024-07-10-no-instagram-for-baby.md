@@ -2,7 +2,7 @@
 layout: post
 title: "Walking Away from the Well"
 image: july/sisyphus.jpg
-date: "July 10, 2024"
+when: "July 10, 2024"
 ---
 
 Deleting social media was not a new concept to me when Macy (my roommate) introduced me to the ideas behind [Ignite](https://www.getignite.org/). Ignite’s challenge is one I have unofficially accepted time and time again, whenever I got brave enough to cut the cord, so to speak.

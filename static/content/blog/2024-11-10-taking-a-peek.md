@@ -2,6 +2,7 @@
 layout: post
 title: "Taking a Peek"
 image: lying_with_ur_friend.JPEG
+when: "November 10, 2024"
 ---
 
 Basically what happened is that in the past week one of my best friends from my college came to stay with me in my apartment in New York. And while that was happening, I was also   planning a trip that was supposed to start this week to San Francisco to visit some other of my best friends. And then what really gave me this epiphany was that I was on a phone call with another friend and she was discussing a recent trip she had gone on to visit a friend that no longer lives a drivable distance away from her.

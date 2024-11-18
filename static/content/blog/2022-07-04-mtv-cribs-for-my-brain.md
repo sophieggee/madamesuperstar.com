@@ -2,7 +2,7 @@
 layout: post
 title: "MTV Cribs for my Brain"
 image: mtv-cribs.JPEG
-date: "July 4, 2022"
+when: "July 4, 2022"
 ---
 
 ## Some of the Stuff I Write in my Journal

@@ -2,7 +2,7 @@
 layout: post
 title: "The Words We Put In Bold"
 image: indulgent-laundry.JPEG
-date: "July 25, 2023"
+when: "July 25, 2023"
 ---
 
 I recently have settled myself into an apartment in a quieter corner of a loud city. With this new stage has come a world of small adjustments in areas of everyday life that I didn’t think to account for. One particular change is that I now have to take my laundry across the street, where I walk prepared with tide pods and $14 in quarters to do one load every five days. 

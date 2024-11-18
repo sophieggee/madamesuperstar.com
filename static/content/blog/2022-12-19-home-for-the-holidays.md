@@ -2,7 +2,7 @@
 layout: post
 title: "What To Do With the Rest of You"
 image: special-mom.JPEG
-date: "December 19, 2022"
+when: "December 19, 2022"
 ---
 
 My flight arrived at SEA-TAC at 8 am and I think I started crying sometime along the carpeted and rickety jet bridge walk into the painfully familiar north terminal. I started crying then and I didn’t stop until I fell asleep in my childhood bed. 
