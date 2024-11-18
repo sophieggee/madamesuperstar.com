@@ -2,6 +2,7 @@
 layout: post
 title: "A Short Leash Held by God"
 image: leash-by-god.JPEG
+date: "July 11, 2022"
 ---
 ## Some Far From Ground-Breaking Revelations:
 

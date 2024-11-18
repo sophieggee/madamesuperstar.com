@@ -2,6 +2,7 @@
 layout: post
 title: "A Case for Wild"
 image: geranium.JPEG
+date: "December 22, 2022"
 ---
 The concept of wildness has been enticing to me ever since I heard Mitski sing that “[**wild women don't get the blues**](https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr?si=0ec8c8c808cc4a48)”. Sign me up. But “wild” is one of those words that gets stuck in my throat. 
 

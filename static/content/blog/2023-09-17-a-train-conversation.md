@@ -2,6 +2,7 @@
 layout: post
 title: "Staffing the Whimsy"
 image: staffing-the-whimsy.JPEG
+date: "September 17, 2023"
 ---
 
 A couple of weeks ago I was on the train eavesdropping on two teenage girls (less creepy than it sounds hopefully). They were talking about all of the fun memories they had made over the course of the summer, how much they will miss each other when they go back “home”, and reminiscing on all the touristy things they were able to accomplish in the past few months. As hard as I tried without being too obvious, I could not make out what they had been here for. Was it a summer camp? Had they completed an internship where they lived in intern housing? If it was a camp, was it for dance? Or music? Were they aspiring actors? Did they have counselors?

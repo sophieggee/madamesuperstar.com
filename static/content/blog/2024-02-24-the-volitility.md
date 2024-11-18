@@ -2,6 +2,7 @@
 layout: post
 title: "The Remedy for Embarrassment"
 image: middleschool.JPEG
+date: "February 24, 2024"
 ---
 
 

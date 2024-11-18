@@ -2,6 +2,7 @@
 layout: post
 title: "Free by Angel Olsen"
 image: freedom.JPEG
+date: "July 24, 2022"
 ---
 
 I remember feeling a great sense of **freedom** the day I started wearing my first pair of platform sandals at 20 years old. 

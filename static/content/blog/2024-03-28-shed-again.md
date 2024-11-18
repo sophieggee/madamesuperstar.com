@@ -2,6 +2,7 @@
 layout: post
 title: "Spring's Shedding"
 image: spring.jpeg
+date: "March 28, 2024"
 ---
 
 Every year around this same time, I shed parts of my old self without even realizing. I part ways with things that don’t ring true any longer, the clothes fly off of my body and into the hands of Buffalo Exchange in droves. The whole city stops to watch the big scene. Blue Angels of the springtime!

@@ -15,6 +15,7 @@
 	<h1 use:rebalance>
 		{data.post.title.toUpperCase()}
 	</h1>
+	<p class="post-date">{data.post.date}</p>
 
 	<img src={`/content/image/${data.post.image}`} alt={data.post.title} />
 	<div class="content">
@@ -34,6 +35,7 @@
 	.post .content {
 		margin: 4rem 0;
 	}
+
 	.post :global(h1) {
 		font-size: 5vw;
 		font-weight: 600;
@@ -42,9 +44,18 @@
 		color: rgb(220, 0, 0);
 	}
 
+	.post-date {
+		font-size: 1.2rem;
+		text-align: center;
+		color: rgb(50, 50, 50);
+		margin-top: -2rem;
+		margin-bottom: 2rem;
+	}
+
 	.post :global(a) {
 		color: rgb(0, 0, 0);
 	}
+
 	.post :global(img) {
 		width: 100%;
 		display: block;

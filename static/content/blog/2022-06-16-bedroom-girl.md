@@ -2,6 +2,7 @@
 layout: post
 title: "Pretty Impossible Lady"
 image: kimya-dawson.JPEG
+date: "June 16, 2022"
 ---
 
 I’ve always been a **Goal-Oriented Gal**. It was probably aided by my love of stationery, but I have been crafting daily to-do lists, “summer bucket list”s, goal sheets, and vision boards since I was sentient. I think I love this about myself. I can’t say that all of these manifestations have come to fruition, but I can say that they’ve been at one point immortalized in some form of cool-toned pink pen. And that is just about as commendable as it gets.

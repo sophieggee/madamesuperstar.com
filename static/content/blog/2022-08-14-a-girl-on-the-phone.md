@@ -2,6 +2,7 @@
 layout: post
 title: "A Girl On The Phone"
 image: telephone-wires.JPEG
+date: "August 14, 2022"
 ---
 
 You can cite my sources if you have a way of verifying with my roommate-parents, but this summer I would describe myself, among other things, as: **A Girl On The Phone**.

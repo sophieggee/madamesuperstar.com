@@ -2,6 +2,7 @@
 layout: post
 title: "One Year in the Place I've Defended"
 image: francis_forever.jpg
+date: "June 12, 2024"
 ---
 
 A little over a year ago, when a tangible apartment in New York City was still just a dream of mine, I wrote in my journal, “I don’t care if the walls of my upcoming, big city apartment are alternating yellow and blue so long as there’s a tree in sight outside of my window.”

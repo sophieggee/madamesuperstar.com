@@ -2,6 +2,7 @@
 layout: post
 title: "Hills I Die On"
 image: ten-commandments.JPEG
+date: "July 17, 2022"
 ---
 ## 10 Non-Negotiable Rules I Live By:
 

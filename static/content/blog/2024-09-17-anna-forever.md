@@ -2,6 +2,7 @@
 layout: post
 title: "A Birthday for Sister"
 image: anna/annabirthday.jpg
+date: "September 17, 2024"
 ---
 
 Today is my sister Anna’s 32nd birthday. In a recent journal entry, I compared my love for New York to the only feeling I could find that fit: the way I love my sister.
