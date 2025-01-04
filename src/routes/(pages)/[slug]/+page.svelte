@@ -16,7 +16,7 @@
 		{data.post.title.toUpperCase()}
 	</h1>
 
-	<img src={/content/image/${data.post.image}} alt={data.post.title} />
+	<img src={`/content/image/${data.post.image}`} alt={data.post.title} />
 	<div class="content">
 		{@html data.post.content}
 	</div>
