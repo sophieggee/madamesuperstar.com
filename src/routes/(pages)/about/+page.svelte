@@ -25,7 +25,6 @@
 		I have returned to it somewhat regularly as both a dazzling stage and a void to scream in. So
 		here I am, and here you are, and I just hope you enjoy.
 	</p>
-
 </article>
 
 <style>
@@ -45,10 +44,5 @@
 	}
 	a {
 		color: rgb(0, 0, 0);
-	}
-	img {
-		width: 100%;
-		display: block;
-		margin: auto;
 	}
 </style>
